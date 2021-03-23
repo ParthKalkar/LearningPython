@@ -21,3 +21,5 @@ def pop(top, arr, size) :
 print(push(top , arr , size, data))
 print(pop(top, arr1, size))
 	
+
+	
