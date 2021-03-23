@@ -35,3 +35,4 @@ def max_sol():
 sum_till_100(100)
 max_sol()
 
+
